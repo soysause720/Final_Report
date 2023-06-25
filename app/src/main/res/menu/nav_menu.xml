@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/firstFragment"
+        android:icon="@drawable/baseline_table_view_24"
+        android:title="列車時間表查詢"/>
+    <item
+        android:id="@+id/secondFragment"
+        android:icon="@drawable/baseline_newspaper_24"
+        android:title="站點間班次查詢" />
+    <item
+        android:id="@+id/thirdFragment"
+        android:icon="@drawable/baseline_insert_chart_outlined_24"
+        android:title="現時段車班查詢" />
+</menu>
